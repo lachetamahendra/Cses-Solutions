@@ -1,0 +1,16 @@
+# Compiled output files
+*.o
+*.out
+*.exe
+
+# Executable files (without extension)
+Two_Knight
+
+# VS Code settings
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
