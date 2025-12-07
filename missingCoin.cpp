@@ -10,7 +10,7 @@ int main(){
     }
     sort(coins.begin(), coins.end());
 
-    int missingCoin = 1;
+    long long missingCoin = 1;
     for(int i = 0; i < n; i++){
         if(coins[i] > missingCoin){
             cout<< missingCoin << endl;
